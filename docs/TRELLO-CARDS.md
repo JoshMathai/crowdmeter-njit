@@ -26,11 +26,11 @@ Description: Create username, NJIT email, password, and confirm-password inputs 
 
 Acceptance: Reject non-NJIT email and mismatched passwords; valid sample input displays a demo message; no credentials are stored or sent.
 
-### Document AI use and prepare deployment guide
+### Review deployment guide
 
-Description: Review docs/AI-USAGE.md, record actual student edits, and review the Ubuntu deployment steps.
+Description: Review the Ubuntu deployment steps and record project changes.
 
-Acceptance: AI-generated portions are disclosed accurately; student can explain the code; VM deployment is not claimed before it occurs.
+Acceptance: Student can explain the code and follow the deployment steps.
 
 ## To-Do
 

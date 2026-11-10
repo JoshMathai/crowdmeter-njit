@@ -12,7 +12,6 @@ CrowdMeter NJIT needs three front-end pages hosted in at least one VM, plus upda
 | At least one VM hosting the pages | Pending deployment to your Ubuntu VM |
 | GitHub source | [Project repository](https://github.com/JoshMathai/crowdmeter-njit); verify latest commit online |
 | Trello updated | Pending cards and evidence on existing board |
-| AI use documented | Record prepared in AI-USAGE.md; review before submission |
 
 The project overview asks for four VMs, while later milestone rows say at least three. Keep the proposal's four-VM plan for the full project. Milestone 1 explicitly requires at least one. For this milestone, only the front-end VM is needed; future back-end, database, and logging VMs must remain private as specified.
 
@@ -20,7 +19,7 @@ The project overview asks for four VMs, while later milestone rows say at least 
 
 Repository: https://github.com/JoshMathai/crowdmeter-njit
 
-All required source files, the lockfile, setup instructions, tests, and AI-use record belong in this repository. Open the project folder in VS Code. For a fresh copy, clone it:
+All required source files, the lockfile, setup instructions, and tests belong in this repository. Open the project folder in VS Code. For a fresh copy, clone it:
 
 ```sh
 git clone https://github.com/JoshMathai/crowdmeter-njit.git
@@ -110,7 +109,6 @@ Be able to identify `facilities`, `Home`, `Auth`, and `Password` in main.jsx; ex
 - [ ] Host and test all three pages inside Ubuntu.
 - [ ] Verify the latest project commit appears in the GitHub repository.
 - [ ] Update Trello with actual task owners, dates, and evidence.
-- [ ] Review the AI-use record and record your own changes accurately.
 - [ ] Check the course portal for submission format and attach the required links/screenshots. The supplied specifications do not define the portal submission format.
 
 ## Parking addition
